@@ -1,4 +1,4 @@
-#all credit for this goes to https://github.com/basicBot I am using their code to learn. 
+#all credit for this goes to https://github.com/basicBot I am using their code to learn github and brush up on js... also to create a bot for my room ;)
 
 
 # Commands List
